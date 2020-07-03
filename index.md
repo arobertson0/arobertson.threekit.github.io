@@ -1,3 +1,5 @@
+The file [is right here](arobertson0.github.io/WaterBottle.usdz)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/arobertson0/arobertson0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
