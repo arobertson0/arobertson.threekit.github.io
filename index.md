@@ -1,4 +1,4 @@
-The file [is right here](arobertson0.github.io/WaterBottle.usdz)
+The file [is right here](/WaterBottle.usdz)
 
 ## Welcome to GitHub Pages
 
