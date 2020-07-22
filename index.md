@@ -1,2 +1,0 @@
-- [Nu%20WebGL.gltf](/Nu%20WebGL.gltf)
-- [Nu%20WebGL%20Config.glb](/Nu%20WebGL%20Config.glb)
